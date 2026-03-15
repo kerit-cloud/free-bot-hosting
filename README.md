@@ -1,4 +1,4 @@
-# Free Bot Hosting on Kerit Cloud — Full Guide
+# Free Bot Hosting on Kerit Cloud — Full Guide - truly free forever
 
 Welcome to **Kerit Cloud Free Tier**! This guide walks you through claiming, managing, and renewing your free server for testing small bots and scripts.  
 Kerit Cloud offers the best free Discord bot hosting, providing instant setup, daily renewal, and a lightweight server optimized for Python and Node.js bots.
