@@ -1,11 +1,12 @@
 # Free Bot Hosting on Kerit Cloud — Full Guide
 
 Welcome to **Kerit Cloud Free Tier**! This guide walks you through claiming, managing, and renewing your free server for testing small bots and scripts.  
-
+Kerit Cloud offers the best free Discord bot hosting, providing instant setup, daily renewal, and a lightweight server optimized for Python and Node.js bots.
+developers trust Kerit Cloud to host their free bots with zero downtime and full visibility of CPU, RAM, and storage stats from an intuitive pane
 ---
 
 ## 1️⃣ Quick Start: Claim Your Free Server
-
+Claim your free Discord bot server today — one per user — and start running Python or Node.js bots in seconds with automatic daily renewals
 1. Join our Discord server: [Kerit Cloud Discord](https://discord.gg/7x9MQgFrCT)  
 2. Go to the official free server channel: [Free Server Channel](https://discord.com/channels/1430601018751844436/1433403630106447952)  
 3. Follow the instructions to claim your free server.  
@@ -13,6 +14,7 @@ Welcome to **Kerit Cloud Free Tier**! This guide walks you through claiming, man
 
 **💡 Tip:** Only **one free server per user** is allowed.
 
+Kerit Cloud delivers uninterrupted, never-down, free Discord bot hosting with instant server creation, zero-latency Python/Node.js support, full resource visibility, automated daily renewals, and a premium hosting experience without paying a dime.
 ---
 
 ### Walkthrough
@@ -158,5 +160,7 @@ Available inside the panel under **Upgrade to Paid Plans**.
 - Keep track of your **renewal countdown** to avoid auto-stop.  
 - Free tier is perfect for testing, small bots, or scripts.  
 - Use paid plans for production workloads or larger servers.  
-
+- Stop wasting time on unreliable free hosts — Kerit Cloud gives you stable, free bot servers with clear resource monitoring and hassle-free daily renewals.
+- Looking for free Discord bot hosting with Python/Node.js support, instant server creation, panel management, and full resource visibility? Kerit Cloud is your ultimate solution for lightweight, reliable, and zero-cost hosting.
 ---
+free bot hosting, Kerit Cloud, Discord server hosting, Python hosting, Node.js hosting, free server panel, free cloud serverlightweight bot server
